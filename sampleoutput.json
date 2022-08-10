@@ -1,0 +1,267 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Cameron Faulkner, Alex Cranz",
+    "title": "Logitech made colorful, more gender-inclusive PC gaming accessories - The Verge",
+    "description": "Logitech has announced the pricey, colorful Aurora collection of PC gaming accessories launching in August 2022. It features a wireless headset, wireless and wired keyboards, as well as a wireless mouse.",
+    "url": "https://www.theverge.com/2022/7/26/23271625/logitech-g-aurora-collection-g735-g715-g705-headset-keyboard-mouse-price-features",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/9HFTSljCSe_x6KGFU5yXjExaiYU=/0x305:4252x2531/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23897618/aurora32collection.jpg",
+    "publishedAt": "2022-07-26T07:01:00Z",
+    "content": "The keyboard, headset, and mouse (complete with color add-ons for each) cost a cool $639.97.\r\nImage: Logitech\r\nLogitech has announced a lineup of PC gaming accessories that are designed to be more ge… [+6344 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Erin Cunningham",
+    "title": "Here are apologies popes have given for abuses at Catholic Church - The Washington Post",
+    "description": "Pope Francis's apology Monday to Canada's Indigenous community wasn't the first time a pontiff has had to ask forgiveness for the church.",
+    "url": "https://www.washingtonpost.com/world/2022/07/25/pope-francis-apology-catholic-church-sexual-abuse-scandal/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JJT27UQMPMI63CHIYWG4HW5O4I.jpg&w=1440",
+    "publishedAt": "2022-07-26T05:04:00Z",
+    "content": "Comment on this story\r\nPope Francis on Monday apologized to Canadas Indigenous community for the role the Catholic Church played in overseeing decades of abuse at some of the nations residential scho… [+4371 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Nectar Gan, CNN",
+    "title": "China's response to Pelosi's potential Taiwan visit could be 'unprecedented' but military conflict unlikely, experts say - CNN",
+    "description": "The United States is no stranger to China's angry responses over its support for Taiwan, a self-governing island that Beijing claims as its own territory.",
+    "url": "https://www.cnn.com/2022/07/25/china/china-us-pelosi-visit-concerns-intl-hnk-mic/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220720000950-01-china-warns-pelosi-taiwan-visit-super-tease.jpg",
+    "publishedAt": "2022-07-26T05:03:00Z",
+    "content": "A version of this story appeared in CNN's Meanwhile in China newsletter, a three-times-a-week update exploring what you need to know about the country's rise and how it impacts the world. Sign up her… [+8148 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Elliot Smith",
+    "title": "UBS misses expectations; CEO cites one of the 'most challenging' quarters for investors in a decade - CNBC",
+    "description": "UBS posted net profit attributable to shareholders of $2.108 billion, below analyst expectations aggregated by the Swiss bank.",
+    "url": "https://www.cnbc.com/2022/07/26/ubs-q2-earnings-2022.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/105563755-1541724233619gettyimages-1053792946.jpeg?v=1658817610&w=1920&h=1080",
+    "publishedAt": "2022-07-26T05:02:55Z",
+    "content": "UBS on Tuesday missed expectations for the second quarter of 2022 as its wealth management and investment banking divisions saw falling client activity on the back of the global market downturn.\r\nThe… [+2499 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Steven Musil",
+    "title": "Elon Musk Rejects Allegations of Affair With Sergey Brin's Wife - CNET",
+    "description": "Elon Musk calls a report that he'd had an affair with Sergey Brin's wife \"total bs\" and posts a selfie of himself with the Google co-founder.",
+    "url": "https://www.cnet.com/tech/elon-musk-rejects-allegations-of-affair-with-sergey-brins-wife/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/90e9e169c8bd7008379051d9ced389dd390847a9/2022/07/24/eab756c3-0c22-4c0d-8d16-07af41f240dc/gettyimages-1172241752.jpg?auto=webp&fit=crop&height=630&width=1200",
+    "publishedAt": "2022-07-26T04:51:00Z",
+    "content": "Elon Musk had a brief affair last fall with Nicole Shanahan, the then-wife of Google co-founder Sergey Brin, according to an explosive Wall Street Journal report published Sunday. But while the Journ… [+3101 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Fast-moving Oak Fire burns more than 16000 acres - KPIX CBS SF Bay Area",
+    "description": "The fast-moving Oak Fire burning in the Sierra has incinerated more than 16,000 acres. Andrew Haubner reports from the fire lines west of Yosemite.",
+    "url": "https://www.youtube.com/watch?v=zf_YkXkAcVQ",
+    "urlToImage": "https://i.ytimg.com/vi/zf_YkXkAcVQ/hqdefault.jpg",
+    "publishedAt": "2022-07-26T03:08:57Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "ABC News",
+    "title": "Uvalde school district suspends Robb Elementary School principal - ABC News",
+    "description": "Mandy Gutierrez, principal of Robb Elementary School, was suspended with pay Monday, her attorney, Ricardo Cedillo, confirmed to ABC News.",
+    "url": "https://abcnews.go.com/US/uvalde-school-district-suspends-robb-elementary-school-principal/story?id=87400644",
+    "urlToImage": "https://s.abcnews.com/images/International/uvalde-texas-school-shooting-principal-mandy-gutierrez-03-abc-llr-220616_1655416272270_hpMain_16x9_992.jpg",
+    "publishedAt": "2022-07-26T03:00:00Z",
+    "content": "Mandy Gutierrez, principal of Robb Elementary School in Texas, was suspended with pay Monday, her attorney, Ricardo Cedillo, confirmed to ABC News.\r\nA special legislative investigation into the May 2… [+3827 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "SciTechDaily"
+    },
+    "author": null,
+    "title": "“Bold Theory” That T. rex Was 3 Species Rebutted – “Tyrannosaurus rex Remains the One True King of the Dinosaurs” - SciTechDaily",
+    "description": "Paleontologists find insufficient evidence that the iconic Tyrannosaurus rex should be reclassified. A bold assertion made earlier this year that fossils identified as belonging to the dinosaur Tyrannosaurus rex really represent three distinct species is debu…",
+    "url": "https://scitechdaily.com/bold-theory-that-t-rex-was-3-species-rebutted-tyrannosaurus-rex-remains-the-one-true-king-of-the-dinosaurs/",
+    "urlToImage": "https://scitechdaily.com/images/T-rex-Model-Ultimate-Predator.jpg",
+    "publishedAt": "2022-07-26T02:51:04Z",
+    "content": "As part of the Museums temporary exhibition T. rex: The Ultimate Predator, which was on view from 2019-2021, visitors encountered a massive life-sized model of T. rex with patches of feathersthe most… [+5326 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The A.V. Club"
+    },
+    "author": "Sam Barsanti",
+    "title": "Jeopardy! decides to just let both Ken Jennings and Mayim Bialik stay on as hosts - The A.V. Club",
+    "description": "Why choose when you can just maintain the same course?",
+    "url": "https://www.avclub.com/ken-jennings-mayim-bialik-jeopardy-still-host-1849330404",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d1f58fdf2c4e5505329a50f98df21d20.jpg",
+    "publishedAt": "2022-07-26T02:07:00Z",
+    "content": "This may be hard to believe, coming from the game show institution that went through a very long run of trial hosts only to give the job to the shows producer (at least temporarily), but Jeopardy! se… [+1566 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "China's Alibaba to apply for dual primary listing in Hong Kong - Reuters.com",
+    "description": "Alibaba <a href=\"https://www.reuters.com/companies/9988.HK\" target=\"_blank\">(9988.HK)</a> will apply for a primary listing in Hong Kong and keep its U.S. listing, the first big company to take advantage of a rule change allowing high-tech Chinese firms with d…",
+    "url": "https://www.reuters.com/markets/asia/chinas-alibaba-apply-primary-listing-hong-kong-2022-07-26/",
+    "urlToImage": "https://www.reuters.com/resizer/Tatupl0zflsbgwtcdAHNyFCEnXw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OCE223GMIJLDZB6RK22O4APO7U.jpg",
+    "publishedAt": "2022-07-26T01:51:00Z",
+    "content": "SHANGHAI, July 26 (Reuters) - Alibaba (9988.HK) will apply for a primary listing in Hong Kong and keep its U.S. listing, the first big company to take advantage of a rule change allowing high-tech Ch… [+2970 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Page Six"
+    },
+    "author": "Nicki Cox",
+    "title": "Nick Cannon and Bre Tiesi’s son needed ‘respiratory support’ after birth - Page Six",
+    "description": "Tiesi revealed that her midwife had to help her newborn son breathe after he was born with his hand by his head, causing him to have a “long crown.”",
+    "url": "https://pagesix.com/2022/07/25/nick-cannon-and-bre-tiesis-son-needed-respiratory-support/",
+    "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/07/bre-tiesi-gives-birth_not-breathing-hp.jpg?quality=75&strip=all&w=1200",
+    "publishedAt": "2022-07-26T01:36:00Z",
+    "content": "Nick Cannon and Bre Tiesi’s son, Legendary, needed “respiratory support” after his birth.\r\nThe couples baby was born with a long crown which was caused by a nuchal hand, or a hand by his ear, Tiesi r… [+2297 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "hoopsrumors.com"
+    },
+    "author": null,
+    "title": "Trade Rumors: Brown, Nets, Durant, Celtics, Lakers, Turner - hoopsrumors.com",
+    "description": "Jaylen Brown's name suddenly popped up in trade rumors as the centerpiece of a proposed deal for the Nets' Kevin &hellip;",
+    "url": "https://www.hoopsrumors.com/2022/07/trade-rumors-brown-nets-durant-celtics-lakers-turner.html",
+    "urlToImage": "https://cdn.hoopsrumors.com/files/2019/10/Jaylen-Brown-Celtics-900x600.jpg",
+    "publishedAt": "2022-07-26T01:17:00Z",
+    "content": "Jaylen Brown‘s name suddenly popped up in trade rumors as the centerpiece of a proposed deal for the Nets’ Kevin Durant. The Celtics wing offered a three-letter response of “smh” (shaking my head) on… [+1437 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Sumathi Bala",
+    "title": "Countries are not doing enough to contain monkeypox outbreak, epidemiologist says - CNBC",
+    "description": "Over the weekend, the World Health Organization activated its highest alert level for the virus, labeling monkeypox a public health emergency of international concern.",
+    "url": "https://www.cnbc.com/2022/07/26/countries-are-not-doing-enough-to-contain-monkeypox-epidemiologist-says.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107090023-1658143106072-gettyimages-1241959919-AFP_32EP3LT.jpeg?v=1658143161&w=1920&h=1080",
+    "publishedAt": "2022-07-26T01:15:00Z",
+    "content": "There are grave concerns that the U.S. and other countries are not doing enough to contain monkeypox from becoming a large scale global outbreak, according to an infectious disease epidemiologist.\r\nO… [+4092 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Peter Baker",
+    "title": "Biden Lashes Trump Over Jan. 6, Saying He ‘Lacked the Courage to Act’ - The New York Times",
+    "description": "In rare comments on the investigation unfolding in the House, President Biden said his predecessor sat in the comfort of the White House as his supporters stormed the Capitol.",
+    "url": "https://www.nytimes.com/2022/07/25/us/politics/biden-trump-jan-6.html",
+    "urlToImage": "https://static01.nyt.com/images/2022/07/25/multimedia/25dc-prexy/25dc-prexy-facebookJumbo.jpg",
+    "publishedAt": "2022-07-26T00:19:47Z",
+    "content": "On Jan. 6, we relied on law enforcement to save our democracy, the president said. We saw what happened. The Capitol Police, the D.C. Metropolitan Police, other law enforcement agencies were attacked… [+513 chars]"
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": "Andres Triay, Nikole Killion, Fin Gómez",
+    "title": "Marc Short, former top aide to Pence, testified before Jan. 6 grand jury - CBS News",
+    "description": "Short testified in January before the House select committee investigating the Jan. 6, 2021, assault on the U.S. Capitol.",
+    "url": "https://www.cbsnews.com/news/mark-short-pence-jan-6-grand-jury/",
+    "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/07/25/fb763ec6-84c3-43f7-87e1-d907287ba4f8/thumbnail/1200x630/e5536d46a498ee9c8affaf134f2f4233/gettyimages-1183455069.jpg",
+    "publishedAt": "2022-07-26T00:12:00Z",
+    "content": "Marc Short, former Vice President Mike Pence's chief of staff, testified before a federal grand jury looking into the Jan. 6, 2021, assault on the U.S. Capitol, he said on CNN Monday night.\r\n\"I can c… [+1727 chars]"
+    },
+    {
+    "source": {
+    "id": "ars-technica",
+    "name": "Ars Technica"
+    },
+    "author": "Beth Mole",
+    "title": "New hypothesis emerges to explain mysterious hepatitis cases in kids - Ars Technica",
+    "description": "Two viruses and a genetic pre-disposition linked to the puzzling condition in preliminary data.",
+    "url": "https://arstechnica.com/science/2022/07/new-hypothesis-emerges-to-explain-mysterious-hepatitis-cases-in-kids/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-151062565-760x380.jpeg",
+    "publishedAt": "2022-07-25T23:54:21Z",
+    "content": "Enlarge/ Liver lesions in patient with chronic active hepatitis C.\r\n20 with 16 posters participating\r\nResearchers in the United Kingdom have come up with the most detailed, complex hypothesis yet to … [+4994 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "TVLine"
+    },
+    "author": "Vlada Gelman",
+    "title": "‘Eragon’ TV Series In the Works at Disney+ - TVLine",
+    "description": "The classic young adult novel Eragon might be coming to Disney+: The streamer is in the early stages of developing a TV series based on the Inheritance Cycle books by Christopher Paolini, our sister Variety reports. Eragon is the first installment in the four…",
+    "url": "https://tvline.com/2022/07/25/eragon-tv-series-disney-plus/",
+    "urlToImage": "https://tvline.com/wp-content/uploads/2022/07/eragon.jpg?w=620",
+    "publishedAt": "2022-07-25T23:35:00Z",
+    "content": "The classic young adult novel Eragon might be coming to Disney+: The streamer is in the early stages of developing a TV series based on the Inheritance Cycle books by Christopher Paolini, our sister … [+1992 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "KHOU.com"
+    },
+    "author": "Janelle Bludau",
+    "title": "'It hurts to exist' | Houston man says hardest things about monkeypox are the pain, isolation and stigma - KHOU.com",
+    "description": "“You look at it, and it’s such an ugly virus. You look at it, and you recoil. And you think I don’t want to be anywhere near that,\" Wesley Wallace told us.",
+    "url": "https://www.khou.com/article/news/health/monkeypox/houston-monkeypox-face-symptoms/285-945126dd-b3fd-4d22-b5e5-2c20cd73b8a6",
+    "urlToImage": "https://media.khou.com/assets/KHOU/images/d8768fc4-13c2-449e-831a-476d453b2348/d8768fc4-13c2-449e-831a-476d453b2348_1140x641.jpg",
+    "publishedAt": "2022-07-25T23:18:00Z",
+    "content": "HOUSTON, Texas There are now 51 cases of confirmed monkeypox in the Houston region with 183 across the state, according to the Texas Department of Health and Human Services.\r\nFor the people behind th… [+2203 chars]"
+    },
+    {
+    "source": {
+    "id": "bleacher-report",
+    "name": "Bleacher Report"
+    },
+    "author": "Rob Goldberg",
+    "title": "Juan Soto Trade Rumors: MLB Execs Vote Padres, Dodgers as Favorites for Nationals RF - Bleacher Report",
+    "description": "Nearly half f is in the mix to acquire Washington Nationals star Juan Soto, but front-office executives project the San Diego Padres and Los Angeles Dodgers as...",
+    "url": "https://bleacherreport.com/articles/10043186-juan-soto-trade-rumors-mlb-execs-vote-padres-dodgers-as-favorites-for-nationals-rf",
+    "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_3800,q_95/v1658757044/msb7dssuufazpifa8f4d.jpg",
+    "publishedAt": "2022-07-25T23:15:30Z",
+    "content": "Mary DeCicco/MLB Photos via Getty Images\r\nNearly half of MLB is in the mix to acquire Washington Nationals star Juan Soto, but league executives project the San Diego Padres and Los Angeles Dodgers a… [+2794 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Tejal Rao",
+    "title": "Diana Kennedy’s Complicated Relationship With Mexican Cuisine - The New York Times",
+    "description": "The brilliant and opinionated author, who died on Sunday, chronicled the recipes and culinary traditions of Mexico. Our critic considers her legacy.",
+    "url": "https://www.nytimes.com/2022/07/25/dining/diana-kennedy-mexican-cuisine.html",
+    "urlToImage": "https://static01.nyt.com/images/2022/07/27/dining/25kennedy4/25kennedy4-facebookJumbo.jpg",
+    "publishedAt": "2022-07-25T22:30:08Z",
+    "content": "Ms. Kennedy wasnt trained as a journalist, and never really identified as one, but she formed her own model for reporting recipes as she went along, traveling Mexico in her pickup truck, working besi… [+803 chars]"
+    }
+    ]
+    }
+    
