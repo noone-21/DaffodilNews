@@ -13,6 +13,7 @@ const App = () => {
   // export class App extends Component {
   const pageSize = 15
   const apiKey = process.env.REACT_APP_NEWS_API
+  
 
   const [progress, setProgress] = useState(0)
   // state={

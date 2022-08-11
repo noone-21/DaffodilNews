@@ -48,6 +48,7 @@ const News= (props) =>{
 
         const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page+1}&pageSize=${props.pageSize}`;
         
+        
         setPage(page+1)
         // this.setState({ page: this.state.page + 1 })
 
@@ -78,7 +79,7 @@ const News= (props) =>{
         
         props.setProgress(20)
         const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
-        
+
         setLoading(true)
          // this.setState({ loading: true })
         
@@ -113,7 +114,7 @@ const News= (props) =>{
                             {articles.map((e) => {
                                 return <div className="col-md-4 " key={e.url}>
                                     <NewsItem  date={e.publishedAt} title={e.title ? e.title : ""} desc={e.description ? e.description : ""}
-                                        imgUrl={e.urlToImage ? e.urlToImage : 'https://chromeunboxed.com/wp-content/uploads/2022/03/11th-gen-lenovo-flex-5i-1.jpg'} newsUrl={e.url} />
+                                        imgUrl={e.urlToImage ? e.urlToImage : 'https://chromeunboxed.com/wp-content/uploads/2022/03/11th-gen-lenovo-flex-5i-1.jpg'} newsUrl={e.url}   />
                                 </div>
                             })}
                         </div>
