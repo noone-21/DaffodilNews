@@ -8,11 +8,20 @@ import Navbar from './components/Navbar';
 import News from './components/News';
 import LoadingBar from 'react-top-loading-bar'
 import Footer from './components/Footer';
+import { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
 
 const App = () => {
   // export class App extends Component {
   const pageSize = 15
   const apiKey = process.env.REACT_APP_NEWS_API
+
+  const firebaseConfig = {
+    apiKey: process.env.REACT_APP_NEWS_API
+  };
+
+  const app = initializeApp(firebaseConfig);
+  const analytics = getAnalytics(app);
   
 
   const [progress, setProgress] = useState(0)
