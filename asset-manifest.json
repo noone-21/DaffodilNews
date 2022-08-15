@@ -1,13 +1,13 @@
 {
   "main.css": "/DaffodilNews/static/css/main.6d103c31.chunk.css",
-  "main.js": "/DaffodilNews/static/js/main.3b27c43d.chunk.js",
-  "main.js.map": "/DaffodilNews/static/js/main.3b27c43d.chunk.js.map",
+  "main.js": "/DaffodilNews/static/js/main.67dd5870.chunk.js",
+  "main.js.map": "/DaffodilNews/static/js/main.67dd5870.chunk.js.map",
   "static/js/1.ac5ed664.chunk.js": "/DaffodilNews/static/js/1.ac5ed664.chunk.js",
   "static/js/1.ac5ed664.chunk.js.map": "/DaffodilNews/static/js/1.ac5ed664.chunk.js.map",
   "runtime~main.js": "/DaffodilNews/static/js/runtime~main.d6afed5b.js",
   "runtime~main.js.map": "/DaffodilNews/static/js/runtime~main.d6afed5b.js.map",
   "static/css/main.6d103c31.chunk.css.map": "/DaffodilNews/static/css/main.6d103c31.chunk.css.map",
   "index.html": "/DaffodilNews/index.html",
-  "precache-manifest.e90f483d6a37fca037e3a6fdabc28427.js": "/DaffodilNews/precache-manifest.e90f483d6a37fca037e3a6fdabc28427.js",
+  "precache-manifest.1d004708359dfd5a7d399866e872d32e.js": "/DaffodilNews/precache-manifest.1d004708359dfd5a7d399866e872d32e.js",
   "service-worker.js": "/DaffodilNews/service-worker.js"
 }

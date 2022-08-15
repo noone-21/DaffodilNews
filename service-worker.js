@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/DaffodilNews/precache-manifest.e90f483d6a37fca037e3a6fdabc28427.js"
+  "/DaffodilNews/precache-manifest.1d004708359dfd5a7d399866e872d32e.js"
 );
 
 workbox.clientsClaim();

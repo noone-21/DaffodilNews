@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3b27c43d8b756ec29716",
+    "revision": "67dd5870ba15a575c774",
     "url": "/DaffodilNews/static/css/main.6d103c31.chunk.css"
   },
   {
-    "revision": "3b27c43d8b756ec29716",
-    "url": "/DaffodilNews/static/js/main.3b27c43d.chunk.js"
+    "revision": "67dd5870ba15a575c774",
+    "url": "/DaffodilNews/static/js/main.67dd5870.chunk.js"
   },
   {
     "revision": "ac5ed664b6e68dfe6a3b",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/DaffodilNews/static/js/runtime~main.d6afed5b.js"
   },
   {
-    "revision": "a5a7c2f6e25fc3190ca9dbfee5f7447b",
+    "revision": "6f32b7f077d045d73bd7738e032adec7",
     "url": "/DaffodilNews/index.html"
   }
 ];
